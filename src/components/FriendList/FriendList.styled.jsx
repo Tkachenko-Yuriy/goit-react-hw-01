@@ -19,7 +19,7 @@ export const Friend = styled.li`
   justify-content: flex-start;
   align-items: center;
 
-  width: 50px;
+  width: 70px;
 
   padding: 10px;
   border: 1px solid grey;
